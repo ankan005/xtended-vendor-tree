@@ -19,6 +19,10 @@ service vendor.drm-widevine-hal-1-2 /vendor/bin/hw/android.hardware.drm@1.2-serv
     interface android.hidl.base@1.0::IBase widevine
     class hal
     user media
+<<<<<<< HEAD
     group media mediadrm drmrpc
+=======
+    group media mediadrm drmrpc system
+>>>>>>> 47986ae... rolex: update DRM/Widevine/SEE from daisy - QKQ1.191002.002 V11.0.2.0.QDLMIXM
     ioprio rt 4
     writepid /dev/cpuset/foreground/tasks

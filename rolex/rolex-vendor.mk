@@ -2440,7 +2440,6 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     TimeService \
-    PowerOffAlarm \
     dpmserviceapp \
     qcrilmsgtunnel \
     chargeonlymode \

@@ -198,7 +198,7 @@ android_app_import {
 }
 
 android_app_import {
-	name: "TimeService",
+	name: "dpmserviceapp",
 	owner: "xiaomi",
 	apk: "proprietary/product/priv-app/dpmserviceapp/dpmserviceapp.apk",
 	certificate: "platform",
